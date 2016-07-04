@@ -1,0 +1,929 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{Amedick1991}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e4eb8a4aed4cce8365499bce606554d6}{%
+           family={Amedick},
+           family_i={A\bibinitperiod},
+           given={Rita},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berlin}%
+      }
+      \strng{namehash}{e4eb8a4aed4cce8365499bce606554d6}
+      \strng{fullhash}{e4eb8a4aed4cce8365499bce606554d6}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1991}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Die antiken Sarkophagreliefs}
+      \field{subtitle}{Vita Privata}
+      \field{title}{Die Sarkophage mit Darstellungen aus dem Menschenleben}
+      \field{volume}{1.4}
+      \field{year}{1991}
+    \endentry
+    \entry{Bartman1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=278bbf3c375a0bfe7df2311cf5bc98b7}{%
+           family={Bartman},
+           family_i={B\bibinitperiod},
+           given={Elizabeth},
+           given_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{278bbf3c375a0bfe7df2311cf5bc98b7}
+      \strng{fullhash}{278bbf3c375a0bfe7df2311cf5bc98b7}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1993}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MMJ}
+      \field{title}{Carving the Badminton Sarcophagus}
+      \field{volume}{28}
+      \field{year}{1993}
+      \field{pages}{57\bibrangedash 75}
+      \range{pages}{19}
+    \endentry
+    \entry{Bielfeldt2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f2b419f2afb0f126d87d41545acedac0}{%
+           family={Bielfeldt},
+           family_i={B\bibinitperiod},
+           given={Ruth},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Munich}%
+      }
+      \strng{namehash}{f2b419f2afb0f126d87d41545acedac0}
+      \strng{fullhash}{f2b419f2afb0f126d87d41545acedac0}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Orestes auf römischen Sarkophagen}
+      \field{year}{2005}
+    \endentry
+    \entry{Warren1964}{article}{}
+      \name{author}{1}{}{%
+        {{hash=33ef742b890e950a1b74a48f38d78eb2}{%
+           family={{Bonfante Warren}},
+           family_i={B\bibinitperiod},
+           given={Larissa},
+           given_i={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{33ef742b890e950a1b74a48f38d78eb2}
+      \strng{fullhash}{33ef742b890e950a1b74a48f38d78eb2}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1964}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AJA}
+      \field{number}{1}
+      \field{title}{A Latin Triumph on a Praenestine Cista}
+      \field{volume}{68}
+      \field{year}{1964}
+      \field{pages}{35\bibrangedash 42}
+      \range{pages}{8}
+    \endentry
+    \entry{Brilliant1967}{article}{}
+      \name{author}{1}{}{%
+        {{hash=afcefa979753c8d2086ceff3472ac09a}{%
+           family={Brilliant},
+           family_i={B\bibinitperiod},
+           given={R.},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{afcefa979753c8d2086ceff3472ac09a}
+      \strng{fullhash}{afcefa979753c8d2086ceff3472ac09a}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1967}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MAAR, Supplement}
+      \field{title}{The Arch of Septimius Severus in the Roman Forum}
+      \field{volume}{29}
+      \field{year}{1967}
+      \field{pages}{5\bibrangedash 271}
+      \range{pages}{267}
+    \endentry
+    \entry{Chicoteau1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f23471dd0694fdaa1b1ae39c28950023}{%
+           family={Chicoteau},
+           family_i={C\bibinitperiod},
+           given={Marcel},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f23471dd0694fdaa1b1ae39c28950023}
+      \strng{fullhash}{f23471dd0694fdaa1b1ae39c28950023}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ZPE}
+      \field{title}{The \enquote{Orphic} Tablets Depicted in a Roman Catacomb (c. 250 AD?)}
+      \field{volume}{119}
+      \field{year}{1997}
+      \field{pages}{81\bibrangedash 3}
+      \range{pages}{3}
+    \endentry
+    \entry{Dietrich1958}{article}{}
+      \name{author}{1}{}{%
+        {{hash=af645b1e656efdc3a8b22928597865fe}{%
+           family={Dietrich},
+           family_i={D\bibinitperiod},
+           given={B.\bibnamedelimi C.},
+           given_i={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{af645b1e656efdc3a8b22928597865fe}
+      \strng{fullhash}{af645b1e656efdc3a8b22928597865fe}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1958}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CQ}
+      \field{title}{Dionysus Liknites}
+      \field{volume}{8}
+      \field{year}{1958}
+      \field{pages}{244\bibrangedash 8}
+      \range{pages}{5}
+    \endentry
+    \entry{Ewald2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e44efa88b29b55efedbc84f9ec0ffad7}{%
+           family={Ewald},
+           family_i={E\bibinitperiod},
+           given={Björn\bibnamedelima C.},
+           given_i={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e44efa88b29b55efedbc84f9ec0ffad7}
+      \strng{fullhash}{e44efa88b29b55efedbc84f9ec0ffad7}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JRA}
+      \field{subtitle}{The Social History of Roman Funerary Art and its Limits}
+      \field{title}{Sarcophagi and Senators}
+      \field{volume}{16}
+      \field{year}{2003}
+      \field{pages}{561\bibrangedash 71}
+      \range{pages}{11}
+    \endentry
+    \entry{Flower1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=af9004e74a1f10756afa13a8a1ef71b7}{%
+           family={Flower},
+           family_i={F\bibinitperiod},
+           given={Harriet\bibnamedelima I.},
+           given_i={H\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford}%
+      }
+      \strng{namehash}{af9004e74a1f10756afa13a8a1ef71b7}
+      \strng{fullhash}{af9004e74a1f10756afa13a8a1ef71b7}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ancestor Masks and Aristocratic Power in Roman Culture}
+      \field{year}{1996}
+    \endentry
+    \entry{Hickson1991}{article}{}
+      \name{author}{1}{}{%
+        {{hash=aed4184b5875e3464f0232e5a0aa2ca2}{%
+           family={Hickson},
+           family_i={H\bibinitperiod},
+           given={Frances\bibnamedelima V.},
+           given_i={F\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{aed4184b5875e3464f0232e5a0aa2ca2}
+      \strng{fullhash}{aed4184b5875e3464f0232e5a0aa2ca2}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1991}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Latomus}
+      \field{number}{1}
+      \field{subtitle}{Manipulation of the Triumphal Theme in the Political Program of Augustus}
+      \field{title}{Augustus \emph{triumphator}}
+      \field{volume}{50}
+      \field{year}{1991}
+      \field{pages}{124\bibrangedash 38}
+      \range{pages}{15}
+    \endentry
+    \entry{Houghton2011}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=c71d9f7f6383153a9500bc338b21e422}{%
+           family={Houghton},
+           family_i={H\bibinitperiod},
+           given={Luke\bibnamedelimb B.\bibnamedelimi T.},
+           given_i={L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=e9d8560ee7ba3515d3c117c41ffc5948}{%
+           family={Hope},
+           family_i={H\bibinitperiod},
+           given={V.\bibnamedelimi M.},
+           given_i={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9ba38938bd4ad5d580554f01943165d5}{%
+           family={Huskinson},
+           family_i={H\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford}%
+      }
+      \strng{namehash}{c71d9f7f6383153a9500bc338b21e422}
+      \strng{fullhash}{c71d9f7f6383153a9500bc338b21e422}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{Studies on Roman Death}
+      \field{booktitle}{Memory and Mourning}
+      \field{title}{Death Ritual and Burial Practice in the Latin Love Elegists}
+      \field{year}{2011}
+      \field{pages}{61\bibrangedash 77}
+      \range{pages}{17}
+    \endentry
+    \entry{Keuren2010}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=d664c2f71d6b9e4cef0247cb0352b22c}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Keuren},
+           family_i={K\bibinitperiod},
+           given={F.},
+           given_i={F\bibinitperiod}}}%
+        {{hash=757ab011621ca0d4e684c3d35de47590}{%
+           family={Attanasio},
+           family_i={A\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=9a0d96fce14b87bc0ff7d6f924de7dbe}{%
+           family={Herrman},
+           family_i={H\bibinitperiod},
+           suffix={J.\bibnamedelimi J.},
+           suffix_i={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Jr.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=fa45867562c763aecde7879269311361}{%
+           family={Herz},
+           family_i={H\bibinitperiod},
+           given={N.},
+           given_i={N\bibinitperiod}}}%
+        {{hash=10f3e56d2ae82ba0d1c2f69dd5b3d1c0}{%
+           family={Gromet},
+           family_i={G\bibinitperiod},
+           given={L.\bibnamedelimi P.},
+           given_i={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=a373ae1a2c4f10bf50c133a367fde079}{%
+           family={Elsner},
+           family_i={E\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=9ba38938bd4ad5d580554f01943165d5}{%
+           family={Huskinson},
+           family_i={H\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berlin}%
+      }
+      \strng{namehash}{e25eb0560c497425a03dff6e5ed9219c}
+      \strng{fullhash}{b44d5ccb3bc33833003015f5348e83e7}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{Some New Work on Roman Sarcophagi}
+      \field{booktitle}{Life, Death and Representation}
+      \field{title}{Multimethod Analyses of Roman Sarcophagi at the Museo Nazionale Romano, Rome}
+      \field{year}{2010}
+      \field{pages}{149\bibrangedash 88}
+      \range{pages}{40}
+    \endentry
+    \entry{Kraemer1989}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bace09207127b68cb5ac244aa38280b7}{%
+           family={Kraemer},
+           family_i={K\bibinitperiod},
+           given={Ross\bibnamedelima S.},
+           given_i={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{bace09207127b68cb5ac244aa38280b7}
+      \strng{fullhash}{bace09207127b68cb5ac244aa38280b7}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1989}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HThR}
+      \field{number}{1}
+      \field{title}{On the Meaning of the Term \enquote{Jew} in Greco-Roman Inscriptions}
+      \field{volume}{82}
+      \field{year}{1989}
+      \field{pages}{35\bibrangedash 53}
+      \range{pages}{19}
+    \endentry
+    \entry{Leon1949}{article}{}
+      \name{author}{1}{}{%
+        {{hash=abf4f0bbf53715c83d728d9a4166b67c}{%
+           family={Leon},
+           family_i={L\bibinitperiod},
+           given={Harry\bibnamedelima J.},
+           given_i={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{abf4f0bbf53715c83d728d9a4166b67c}
+      \strng{fullhash}{abf4f0bbf53715c83d728d9a4166b67c}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{1949}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAOS}
+      \field{number}{2}
+      \field{title}{Symbolic Representations in the Jewish Catacombs of Rome}
+      \field{volume}{69}
+      \field{year}{1949}
+      \field{pages}{87\bibrangedash 90}
+      \range{pages}{4}
+    \endentry
+    \entry{Lorenz2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=743eb8bff271d54ec137bd6db91ddafd}{%
+           family={Lorenz},
+           family_i={L\bibinitperiod},
+           given={Katharina\bibnamedelima G.},
+           given_i={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=a373ae1a2c4f10bf50c133a367fde079}{%
+           family={Elsner},
+           family_i={E\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=9ba38938bd4ad5d580554f01943165d5}{%
+           family={Huskinson},
+           family_i={H\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berlin}%
+      }
+      \strng{namehash}{743eb8bff271d54ec137bd6db91ddafd}
+      \strng{fullhash}{743eb8bff271d54ec137bd6db91ddafd}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{Some New Work on Roman Sarcophagi}
+      \field{booktitle}{Life, Death and Representation}
+      \field{subtitle}{The Death of Meleager on Roman Sarcophagi}
+      \field{title}{Image in Distress?}
+      \field{year}{2010}
+      \field{pages}{309\bibrangedash 36}
+      \range{pages}{28}
+    \endentry
+    \entry{Lorenz2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=743eb8bff271d54ec137bd6db91ddafd}{%
+           family={Lorenz},
+           family_i={L\bibinitperiod},
+           given={Katharina\bibnamedelima G.},
+           given_i={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=a373ae1a2c4f10bf50c133a367fde079}{%
+           family={Elsner},
+           family_i={E\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=c21f21be58f2cc498573faeed0d29121}{%
+           family={Meyer},
+           family_i={M\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge}%
+      }
+      \strng{namehash}{743eb8bff271d54ec137bd6db91ddafd}
+      \strng{fullhash}{743eb8bff271d54ec137bd6db91ddafd}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Art and Rhetoric in Roman Culture}
+      \field{subtitle}{Rhetoric and the Topology of Roman Wall Painting}
+      \field{title}{The Casa del Menandro in Pompeii}
+      \field{year}{2014}
+      \field{pages}{183\bibrangedash 210}
+      \range{pages}{28}
+    \endentry
+    \entry{Maxfield1981}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4c61f8bc770db6c45868a5462a8a39de}{%
+           family={Maxfield},
+           family_i={M\bibinitperiod},
+           given={Valerie\bibnamedelima A.},
+           given_i={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berkeley, CA}%
+      }
+      \strng{namehash}{4c61f8bc770db6c45868a5462a8a39de}
+      \strng{fullhash}{4c61f8bc770db6c45868a5462a8a39de}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1981}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Military Decorations of the Roman Army}
+      \field{year}{1981}
+    \endentry
+    \entry{Neverov1979}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f028d608a4eea1c83e848ed82f9ff5ed}{%
+           family={Neverov},
+           family_i={N\bibinitperiod},
+           given={Oleg},
+           given_i={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{f028d608a4eea1c83e848ed82f9ff5ed}
+      \strng{fullhash}{f028d608a4eea1c83e848ed82f9ff5ed}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1979}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Burlington Magazine}
+      \field{number}{916}
+      \field{title}{Gems in the Collection of Rubens}
+      \field{volume}{121}
+      \field{year}{1979}
+      \field{pages}{424\bibrangessep 426\bibrangedash 432}
+      \range{pages}{8}
+    \endentry
+    \entry{Parlasca1970}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2888c1b91ef8f0babcb64d17564672b0}{%
+           family={Parlasca},
+           family_i={P\bibinitperiod},
+           given={Klaus},
+           given_i={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berlin}%
+      }
+      \strng{namehash}{2888c1b91ef8f0babcb64d17564672b0}
+      \strng{fullhash}{2888c1b91ef8f0babcb64d17564672b0}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1970}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die römischen Mosaiken in Deutschland}
+      \field{year}{1970}
+    \endentry
+    \entry{Perry2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3581f85b0879381cadbc1bf52c154599}{%
+           family={Perry},
+           family_i={P\bibinitperiod},
+           given={Ellen\bibnamedelima E.},
+           given_i={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=7b2fb631da4ec986e3a815cdfcb47400}{%
+           family={Friedland},
+           family_i={F\bibinitperiod},
+           given={Elise\bibnamedelima A.},
+           given_i={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=679afd2a9b419699ad89dd2db89230ca}{%
+           family={Sobocinski},
+           family_i={S\bibinitperiod},
+           given={Melanie\bibnamedelima Grunow},
+           given_i={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=b939c288ec45c1b84af68b82cccfaace}{%
+           family={Gazda},
+           family_i={G\bibinitperiod},
+           given={Elaine\bibnamedelima K.},
+           given_i={E\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford}%
+      }
+      \strng{namehash}{3581f85b0879381cadbc1bf52c154599}
+      \strng{fullhash}{3581f85b0879381cadbc1bf52c154599}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Oxford Handbook of Roman Sculpture}
+      \field{title}{Human Interaction with Statues}
+      \field{year}{2015}
+      \field{pages}{653\bibrangedash 66.}
+      \range{pages}{-1}
+    \endentry
+    \entry{Ritter1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=da0eb9ac009b79335610fd8b345dcf67}{%
+           family={Ritter},
+           family_i={R\bibinitperiod},
+           given={Stefan},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Heidelberg}%
+      }
+      \strng{namehash}{da0eb9ac009b79335610fd8b345dcf67}
+      \strng{fullhash}{da0eb9ac009b79335610fd8b345dcf67}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1995}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hercules in der römischen Kunst von den Anfängen bis Augustus}
+      \field{year}{1995}
+    \endentry
+    \entry{Rupke2006}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f2e8b75ffd14f4d9c65c1da0a697d500}{%
+           family={Rüpke},
+           family_i={R\bibinitperiod},
+           given={Jörg},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2e8b75ffd14f4d9c65c1da0a697d500}
+      \strng{fullhash}{f2e8b75ffd14f4d9c65c1da0a697d500}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Numen}
+      \field{number}{3}
+      \field{title}{Triumphator and Ancestor Rituals between Symbolic Anthropology and Magic}
+      \field{volume}{53}
+      \field{year}{2006}
+      \field{pages}{251\bibrangedash 89}
+      \range{pages}{39}
+    \endentry
+    \entry{Shaya2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0cc474c50270d3dbfd2f4572f85377d5}{%
+           family={Shaya},
+           family_i={S\bibinitperiod},
+           given={Josephine},
+           given_i={J\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=7b2fb631da4ec986e3a815cdfcb47400}{%
+           family={Friedland},
+           family_i={F\bibinitperiod},
+           given={Elise\bibnamedelima A.},
+           given_i={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=679afd2a9b419699ad89dd2db89230ca}{%
+           family={Sobocinski},
+           family_i={S\bibinitperiod},
+           given={Melanie\bibnamedelima Grunow},
+           given_i={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=b939c288ec45c1b84af68b82cccfaace}{%
+           family={Gazda},
+           family_i={G\bibinitperiod},
+           given={Elaine\bibnamedelima K.},
+           given_i={E\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford}%
+      }
+      \strng{namehash}{0cc474c50270d3dbfd2f4572f85377d5}
+      \strng{fullhash}{0cc474c50270d3dbfd2f4572f85377d5}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Oxford Handbook of Roman Sculpture}
+      \field{title}{Ancient Analogs of Museums}
+      \field{year}{2015}
+      \field{pages}{622\bibrangedash 37}
+      \range{pages}{16}
+    \endentry
+    \entry{Sorabella2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f8c9594820eccc6c52937a7d232c3760}{%
+           family={Sorabella},
+           family_i={S\bibinitperiod},
+           given={Jean},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8c9594820eccc6c52937a7d232c3760}
+      \strng{fullhash}{f8c9594820eccc6c52937a7d232c3760}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MMJ}
+      \field{title}{A Roman Sarcophagus and its Patron}
+      \field{volume}{36}
+      \field{year}{2001}
+      \field{pages}{67\bibrangedash 81}
+      \range{pages}{15}
+    \endentry
+    \entry{Torjusson2008}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=3f7d6483c5afcb2b760f3d904672a644}{%
+           family={Torjussen},
+           family_i={T\bibinitperiod},
+           given={Stian\bibnamedelima Sundell},
+           given_i={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Tromsø}%
+      }
+      \strng{namehash}{3f7d6483c5afcb2b760f3d904672a644}
+      \strng{fullhash}{3f7d6483c5afcb2b760f3d904672a644}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{A Study of the ``Orphic'' Gold Tablets and the Derveni Papyrus}
+      \field{title}{Metamorphoses of Myth}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+    \endentry
+    \entry{Toynbee1971}{book}{}
+      \name{author}{1}{}{%
+        {{hash=07d562a1b56f3d8921d3c99883b01c62}{%
+           family={Toynbee},
+           family_i={T\bibinitperiod},
+           given={J.\bibnamedelimi M.\bibnamedelimi C.},
+           given_i={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ithaca}%
+      }
+      \strng{namehash}{07d562a1b56f3d8921d3c99883b01c62}
+      \strng{fullhash}{07d562a1b56f3d8921d3c99883b01c62}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1971}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Death and Burial in the Roman World}
+      \field{year}{1971}
+    \endentry
+    \entry{Versnel1970}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9f79d9ba59187669543638e61d2dff2d}{%
+           family={Versnel},
+           family_i={V\bibinitperiod},
+           given={H.\bibnamedelimi S.},
+           given_i={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Leiden}%
+      }
+      \strng{namehash}{9f79d9ba59187669543638e61d2dff2d}
+      \strng{fullhash}{9f79d9ba59187669543638e61d2dff2d}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{1970}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{An Inquiry into the Origin, Development and Meaning of the Roman Triumph}
+      \field{title}{Triumphus}
+      \field{year}{1970}
+    \endentry
+    \entry{Hadrill1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c08dbbc149fff4b7dfbb01f834965b15}{%
+           family={Wallace-Hadrill},
+           family_i={W\bibinithyphendelim H\bibinitperiod},
+           given={Andrew},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton}%
+      }
+      \strng{namehash}{c08dbbc149fff4b7dfbb01f834965b15}
+      \strng{fullhash}{c08dbbc149fff4b7dfbb01f834965b15}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Houses and Society in Pompeii and Herculaneum}
+      \field{year}{1994}
+    \endentry
+    \entry{Wind1950}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6c55906b959994d19d47fe9aa5e474d4}{%
+           family={Wind},
+           family_i={W\bibinitperiod},
+           given={Edgar},
+           given_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c55906b959994d19d47fe9aa5e474d4}
+      \strng{fullhash}{6c55906b959994d19d47fe9aa5e474d4}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1950}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Burlington Magazine}
+      \field{number}{564}
+      \field{title}{A Note on Bacchus and Ariadne}
+      \field{volume}{92}
+      \field{year}{1950}
+      \field{pages}{82\bibrangessep 84\bibrangedash 85}
+      \range{pages}{3}
+    \endentry
+    \entry{Wrede1981}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9bee38c9403193df5f616190ca320a07}{%
+           family={Wrede},
+           family_i={W\bibinitperiod},
+           given={Henning},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mainz}%
+      }
+      \strng{namehash}{9bee38c9403193df5f616190ca320a07}
+      \strng{fullhash}{9bee38c9403193df5f616190ca320a07}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1981}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Vergöttlichte Privatpersonen in der römischen Kaiserzeit}
+      \field{title}{\emph{consecratio in formam deorum}}
+      \field{year}{1981}
+    \endentry
+    \entry{Zanker1990}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4387eb80cc457df0de3d0a4ef8284107}{%
+           family={Zanker},
+           family_i={Z\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=feaafcabc525f18ba546e03acd1e53ea}{%
+           family={Shapiro},
+           family_i={S\bibinitperiod},
+           given={A.\bibnamedelimi H.},
+           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ann Arbor}%
+      }
+      \strng{namehash}{4387eb80cc457df0de3d0a4ef8284107}
+      \strng{fullhash}{4387eb80cc457df0de3d0a4ef8284107}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelyear}{1990}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Power of Images in the Age of Augustus}
+      \field{year}{1990}
+    \endentry
+    \entry{Zanker2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4387eb80cc457df0de3d0a4ef8284107}{%
+           family={Zanker},
+           family_i={Z\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=09cba1fb67c13430c6fe97c6da9c4ece}{%
+           family={Heitmann-Gordon},
+           family_i={H\bibinithyphendelim G\bibinitperiod},
+           given={H.},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {California}%
+      }
+      \strng{namehash}{4387eb80cc457df0de3d0a4ef8284107}
+      \strng{fullhash}{4387eb80cc457df0de3d0a4ef8284107}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Roman Art}
+      \field{year}{2010}
+    \endentry
+    \entry{Zanker2012}{book}{}
+      \name{author}{2}{}{%
+        {{hash=4387eb80cc457df0de3d0a4ef8284107}{%
+           family={Zanker},
+           family_i={Z\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+        {{hash=2c871e9033153726ea3f317aa6a82300}{%
+           family={Ewald},
+           family_i={E\bibinitperiod},
+           given={Björn\bibnamedelima Christian},
+           given_i={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford}%
+      }
+      \strng{namehash}{2da642a686ee5b7d5206e7a4a81d6c16}
+      \strng{fullhash}{2da642a686ee5b7d5206e7a4a81d6c16}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{The Imagery of Roman Sarcophagi}
+      \field{title}{Living with Myths}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
