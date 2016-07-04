@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.28)  4 JUL 2016 11:33
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.28)  4 JUL 2016 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1498,6 +1498,11 @@ Package biblatex Info: Trying to load citation style 'ijsra'...
 Package biblatex Info: ... file 'ijsra.cbx' found.
  (./ijsra.cbx
 File: ijsra.cbx 2016/07/04 v0.1 ijsra
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2016/05/14 v3.4 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1505,9 +1510,10 @@ Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-)
+))
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
+
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
@@ -2721,7 +2727,7 @@ gular.otf
 
 
 LaTeX Font Warning: Font shape `EU1/lmvtt/m/it' in size <8> not available
-(Font)              Font shape `EU1/lmvtt/m/sl' tried instead on input line 35.
+(Font)              Font shape `EU1/lmvtt/m/sl' tried instead on input line 33.
 
 
 Requested font "[lmmonoprop10-oblique]:mapping=tex-text" at 8.0pt
@@ -2740,11 +2746,11 @@ LaTeX Warning: Marginpar on page 2 moved.
 LaTeX Font Info:    Font shape `EU1/LinLibertine(0)/m/sl' in size <10> not avai
 lable
 (Font)              Font shape `EU1/LinLibertine(0)/m/it' tried instead on inpu
-t line 130.
+t line 128.
 LaTeX Font Info:    Font shape `EU1/LinLibertine(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `EU1/LinLibertine(0)/m/it' tried instead on inpu
-t line 130.
+t line 128.
 Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=DFLT;mapping=tex-
 text;mapping=tex-text;+tnum;+lnum;" at 12.0pt
  -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/libertine/LinLiber
@@ -2752,7 +2758,7 @@ tine_RI.otf
 LaTeX Font Info:    Font shape `EU1/LinLibertine(0)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `EU1/LinLibertine(0)/m/it' tried instead on inpu
-t line 130.
+t line 128.
 Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=DFLT;mapping=tex-
 text;mapping=tex-text;+tnum;+lnum;" at 8.0pt
  -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/libertine/LinLiber
@@ -2760,7 +2766,7 @@ tine_RI.otf
 LaTeX Font Info:    Font shape `EU1/LinLibertine(0)/bx/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/LinLibertine(0)/bx/it' tried instead on inp
-ut line 130.
+ut line 128.
 Requested font "[LinLibertine_RBI.otf]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;+tnum;+lnum;" at 8.0pt
  -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/libertine/LinLiber
@@ -2768,33 +2774,25 @@ tine_RBI.otf
 LaTeX Font Info:    Font shape `EU1/LinBiolinum(0)/bx/sl' in size <8> not avail
 able
 (Font)              Font shape `EU1/LinBiolinum(0)/bx/it' tried instead on inpu
-t line 130.
+t line 128.
 LaTeX Font Info:    Font shape `EU1/LinBiolinum(0)/bx/it' will be
-(Font)              scaled to size 8.0pt on input line 130.
+(Font)              scaled to size 8.0pt on input line 128.
 Requested font "[LinBiolinum_RBO.otf]/OT:script=latn;language=DFLT;mapping=tex-
 text;mapping=tex-text;+tnum;" at 8.0pt
  -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/libertine/LinBioli
 num_RBO.otf
 [2]
-Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=DFLT;mapping=tex-
-text;mapping=tex-text;+tnum;+lnum;" at 12.0pt
- -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/libertine/LinLiber
-tine_RB.otf
-Package atenddvi Info: Last page = 3.
- [3]
 \tf@thm=\write8
 \openout8 = `ijsra.thm'.
 
- [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 159.
+Package atenddvi Info: Last page = 3.
+ [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 157.
  (./ijsra.aux
-
-Package atenddvi Warning: Rerun LaTeX, last page has changed.
-
 Package cleveref Info: loaded `english' language definitions on input line 27.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 159.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 157.
 
 
  *File List*
@@ -2861,6 +2859,7 @@ standard.bbx    2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
 authoryear.bbx    2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
   xpatch.sty    2012/10/02 v0.3 Extending etoolbox patching commands
    ijsra.bbx    2016/07/04 v0.1 ijsra
+authoryear.cbx    2016/05/14 v3.4 biblatex citation style (PK/JW/AB)
    ijsra.cbx    2016/07/04 v0.1 ijsra
 biblatex.cfg    
 metalogo.sty    2010/05/29 v0.12 Extended TeX logo macros
@@ -2979,28 +2978,26 @@ eu1lmvtt.fd    2009/10/30 v1.6 Font defs for Latin Modern
     umsb.fd    2013/01/14 v3.01 AMS symbols B
  ***********
 
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 159.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 157.
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                ijsra
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'ijsra.run.xml'.
 \openout1 = `ijsra.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58521 strings out of 493589
- 1164557 string characters out of 6143512
- 1581487 words of memory out of 5000000
- 61219 multiletter control sequences out of 15000+600000
- 12836 words of font info for 94 fonts, out of 8000000 for 9000
+ 58340 strings out of 493589
+ 1160882 string characters out of 6143512
+ 1581716 words of memory out of 5000000
+ 61036 multiletter control sequences out of 15000+600000
+ 12828 words of font info for 93 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 75i,23n,145p,10409b,33345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,23n,145p,10409b,33310s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ijsra.pdf (4 pages).
+Output written on ijsra.pdf (3 pages).

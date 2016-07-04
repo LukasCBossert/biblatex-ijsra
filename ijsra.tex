@@ -25,8 +25,6 @@ english
 Bibliographical style called \emph{ijsra} which is done for the journal \href{http://www.ijsra.org}{\emph{International Journal of Student Research in Archaeology}} (IJSRA).
  \end{abstract}
 
-
-
 \section{Usage}
  \DescribeMacro{ijsra}  The name of the bib\LaTeX-style is  |ijsra| has to be activated in the preamble. 
 
@@ -129,31 +127,31 @@ Finally the bibliography:
 							title={Secondary literature}]
 \end{lstlisting}
 
-\nocite{*}
-\begin{bsp}
-\renewcommand\bibfont{\normalfont\footnotesize}
-\printbibheading[%
-							heading=bibliography,%
-							title={Bibliography}] %heading for bibliography
-\printbibliography[%
-							notkeyword=ancient,%
-							notkeyword=corpus,%
-							heading=subbibliography,
-							title={Secondary literature}]
-\end{bsp}
-
-\begin{lstlisting}
-
-@Book{Amedick1991,
-  author    = {Amedick, Rita},
-  title     = {Die Sarkophage mit Darstellungen aus dem Menschenleben},
-  subtitle  = {Vita Privata},
-  publisher = {Berlin},
-  year      = {1991},
-  maintitle = {Die antiken Sarkophagreliefs},
-  volume    = {1.4},
-}
-
-
-\end{lstlisting}
+%\nocite{*}
+%\begin{bsp}
+%\renewcommand\bibfont{\normalfont\footnotesize}
+%\printbibheading[%
+%							heading=bibliography,%
+%							title={Bibliography}] %heading for bibliography
+%\printbibliography[%
+%							notkeyword=ancient,%
+%							notkeyword=corpus,%
+%							heading=subbibliography,
+%							title={Secondary literature}]
+%\end{bsp}
+%
+%\begin{lstlisting}
+%
+%@Book{Amedick1991,
+%  author    = {Amedick, Rita},
+%  title     = {Die Sarkophage mit Darstellungen aus dem Menschenleben},
+%  subtitle  = {Vita Privata},
+%  publisher = {Berlin},
+%  year      = {1991},
+%  maintitle = {Die antiken Sarkophagreliefs},
+%  volume    = {1.4},
+%}
+%
+%
+%\end{lstlisting}
 \end{document}
