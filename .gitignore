@@ -12,3 +12,9 @@
 *.xml
 
 *.gz
+
+*.idx
+
+*.out
+
+*.thm
