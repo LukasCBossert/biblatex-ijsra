@@ -16,8 +16,8 @@ This style contains:
 
 documentation:
 
-- ijsra.tex
-- ijsra.pdf
+- -biblatex-ijsra.tex
+- -biblatex-ijsra.pdf
 
 mandatory:
 
